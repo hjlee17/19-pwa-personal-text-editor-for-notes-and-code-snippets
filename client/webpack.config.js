@@ -32,8 +32,8 @@ module.exports = () => {
       new MiniCssExtractPlugin(),
       new WorkboxPlugin.GenerateSW(),
       new InjectManifest({
-        swSrc: './src/sw.js',
-        swDest: 'service-worker.js',
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
       }),
       // Creates a manifest.json file.
       new WebpackPwaManifest({
