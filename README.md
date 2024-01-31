@@ -11,13 +11,12 @@ This is a text editor where a user can take notes or code snippets with or witho
 - [License](#license)
 - [Resources](#resources)
 
-
 ## Link & GitHub Repository
-[Deployed Application](https://opensource.org/licenses/MIT/)
+[Deployed Application](https://github.com/hjlee17/19-pwa-personal-text-editor-for-notes-and-code-snippets.git) (Deployment WIP)
 [GitHub Repository](https://github.com/hjlee17/19-pwa-personal-text-editor-for-notes-and-code-snippets.git)
 
 ## Usage
-A user can take notes in the browser, or a uers can download the application and take notes, even while they are offline.
+A user can take notes in the browser, or users can download the application and take notes, even while they are offline.
 
 ## License
 [The MIT License](https://opensource.org/licenses/MIT/)
